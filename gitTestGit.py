@@ -1,3 +1,3 @@
 f = open("gitOutput.txt", "a")
-f.write(str("First"))
+f.write(str("FUpdated"))
 f.close()
